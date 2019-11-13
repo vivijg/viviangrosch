@@ -1,2 +1,2 @@
-text file is a test
+text file some words in between is a test
 this is a change
